@@ -1,0 +1,17 @@
+<game>
+    <part>
+        <name>Part</name>
+        <sizeX>50</sizeX>
+        <sizeY>1</sizeY>
+        <sizeZ>50</sizeZ>
+        <posX>0</posX>
+		<tag>Part</tag>
+        <posY>0</posY>
+        <posZ>0</posZ>
+        <rotX>0</rotX>
+        <rotY>0</rotY>
+        <rotZ>0</rotZ>
+        <anchored>true</anchored>
+	    <color>#449848</color>
+    </part>
+</game>
